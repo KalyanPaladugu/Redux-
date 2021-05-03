@@ -3,7 +3,7 @@
 + Redux is predictable state container for JavaScript Applications
 + Redux is not tied to react we can use it for Angular,  vue.js frameworks and vanilla javascript also
 + Redux is a library for JavaScript Applications
-+ Redux store state of application
++ Redux stores state of application
 + React context - prevents props drilling
 + React context + Reduceris pretty much what redux offer
 + React is UI library and Redux is statemanagement library
