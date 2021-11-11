@@ -8,6 +8,7 @@
 + React context + Reduceris pretty much what redux offer
 + React is UI library and Redux is statemanagement library
 + react-redux is official redux UI binding library for React
++ ![Redux Flow](redux.png)
 
 Environment steup:
 ==================
